@@ -1,13 +1,13 @@
 ---
 title: Terms of Service
-description: All the terms that you agree to when you sign up for a Basecamp product.
+description: All the terms that you agree to when you sign up for a Markfolder product.
 ---
 
-# Terms of Service
+*Last updated: 14 April, 2021*
 
-*Last updated: 6 August, 2020*
+Thank you for using Markfolder!
 
-Thank you for using Markfolder! We built Markfolder because we want to help create a useful tool for bookmarking and recovering social conversations like tweets. Since we don't know every one of our users personally, we have to put in place some Terms of Service to help keep the ship afloat.
+We built Markfolder because we want to help create a useful tool for bookmarking and recovering social conversations like tweets. Since we don't know every one of our users personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
 When we say “Company”, “we”, “our”, or “us” in this document, we are referring to the business that owns and runs Markfolder.
 
@@ -17,7 +17,7 @@ We may update these Terms of Service in the future. You can track all changes ma
 
 When you use our Services, now or in the future, you are agreeing to the latest Terms of Service. That's true for any of our existing and future products and all features that we add to our Services over time. There may be times where we do not exercise or enforce any right or provision of the Terms of Service; in doing so, we are not waiving that right or provision. **These terms do contain a limitation of our liability.**
 
-If you violate of any of the terms, we may terminate your account. That's a broad statement and it means you need to place a lot of trust in us. We do our best to deserve that trust by being open about [who we are](https://markfolder.com/about) and keeping an open door to [your feedback](mailto:markfolderapp@gmail.com).
+If you violate of any of the terms, we may terminate your account. That's a broad statement and it means you need to place a lot of trust in us. We do our best to deserve that trust by being open about [who we are](https://markfolder.com/about) and keeping an open door to [your feedback](mailto:farez@markfolder.com).
 
 ## Account Terms
 
@@ -28,19 +28,23 @@ If you violate of any of the terms, we may terminate your account. That's a broa
 
 ## Payment, Refunds, and Plan Changes
 
-1. Markfolder is currently a free service, but we will be introducing paid features soon.
+1. Markfolder has a free and a paid version called Markfolder PRO.
 2. If you are using a free version of one of our Services, it is really free: we do not ask you for your credit card and — just like for customers who pay for our Services — we do not sell your data.
+3. If you are upgrading from a free plan to a paid plan, we will charge your card immediately and your billing cycle starts on the day of upgrade.
+4. When you cancel a subscription before your next subscription is due, you may still continue to use Markfolder on your current plan until the end of the current billing cycle. This is also known as the "grace period". At the end of the grce period, your account will return to the free plan.
+5. Once your account returns to the free plan after cancellation, you will continue to have access to all the folders and bookmarks you have created, but you may not be able to create new folders or save any new bookmarks if you have exceeded the free plan's quota.
 
 ## Cancellation and Termination
 
-1. You are solely responsible for properly canceling your account. If you need help cancelling your account, you can always [email markfolderapp@gmail.com](mailto:markfolderapp@gmail.com).
-2. All of your content will be inaccessible from the Services immediately upon cancellation. Within 30 days, all content will be permanently deleted from active systems and logs. Within 60 days, all content will be permanently deleted from our backups. We cannot recover this information once it has been permanently deleted. If you want a copy of your data before your account is cancelled, just [email markfolderapp@gmail.com](mailto:markfolderapp@gmail.com) and let us know you need a copy of your data. We will reply with a copy of your data withi 30 days of receiving your email.
+1. You are solely responsible for properly canceling your account. If you need help cancelling your account, you can always [email farez@markfolder.com](mailto:farez@markfolder.com).
+2. All of your content will be inaccessible from the Services immediately upon cancellation. Within 30 days, all content will be permanently deleted from active systems and logs. Within 60 days, all content will be permanently deleted from our backups. We cannot recover this information once it has been permanently deleted. If you want a copy of your data before your account is cancelled, just [email farez@markfolder.com](mailto:farez@markfolder.com) and let us know you need a copy of your data. We will reply with a copy of your data withi 30 days of receiving your email.
 3. We have the right to suspend or terminate your account and refuse any and all current or future use of our Services for any reason at any time. Suspension means you and any other users on your account will not be able to access the account or any content in the account. Termination will furthermore result in the deletion of your account or your access to your account, and the forfeiture and relinquishment of all content in your account. We also reserve the right to refuse the use of the Services to anyone for any reason at any time. We have this clause because statistically speaking, out of the hundreds of thousands of accounts on our Services, there is at least one doing something nefarious. There are some things we staunchly stand against and this clause is how we exercise that stance. For more details, see our [Use Restrictions policy](/pages/abuse).
 5. Verbal, physical, written or other abuse (including threats of abuse or retribution) of Company employee or officer will result in immediate account termination.
 
 ## Modifications to the Service and Prices
 
 1. We make a promise to our users to support our Services for as long as we are able to. Sometimes it becomes technically impossible to continue a feature or we redesign a part of our Services because we think it could be better or we decide to close new signups of a product. We reserve the right at any time to modify or discontinue, temporarily or permanently, any part of our Services with or without notice.
+2. Sometimes we change the pricing structure for our products. When we do that, we tend to exempt existing customers from those changes. However, we may choose to change the prices for existing customers. If we do so, we will give at least 30 days notice and will notify you via the email address on record. We may also post a notice about changes on our websites or the affected Services themselves.
 
 ## Uptime, Security, and Privacy
 
@@ -58,7 +62,7 @@ If you violate of any of the terms, we may terminate your account. That's a broa
 1. All content posted on the Services must comply with U.K. copyright law.
 2. We claim no intellectual property rights over the material you provide to the Services. All materials uploaded remain yours, or belong to the original copyright owner.
 3. We do not pre-screen content, but reserve the right (but not the obligation) in our sole discretion to refuse or remove any content that is available via the Service.
-4. The names, look, and feel of the Services are copyright to the Company. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements without express written permission from the Company. You must request permission to use the Company's logo or any Service logos for promotional purposes. Please [email us](mailto:markfolderapp@gmail.com) requests to use logos. We reserve the right to rescind this permission if you violate these Terms of Service.
+4. The names, look, and feel of the Services are copyright to the Company. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements without express written permission from the Company. You must request permission to use the Company's logo or any Service logos for promotional purposes. Please [email us](mailto:farez@markfolder.com) requests to use logos. We reserve the right to rescind this permission if you violate these Terms of Service.
 5. You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Services, use of the Services, or access to the Services without the express written permission by the Company.
 6. You must not modify another website so as to falsely imply that it is associated with the Services or the Company.
 
@@ -76,8 +80,9 @@ We mention liability throughout these Terms but to put it all in one section:
 
 In other words: choosing to use our Services does mean you are making a bet on us. If the bet does not work out, that's on you, not us. We do our utmost to be as safe a bet as possible through careful management of the business; investments in security, infrastructure, and talent. If you choose to use our Services, thank you for betting on us.
 
-If you have a question about any of the Terms of Service, please [email us at markfolderapp@gmail.com](mailto:markfolderapp@gmail.com).
+If you have a question about any of the Terms of Service, please [email us at farez@markfolder.com](mailto:farez@markfolder.com).
 
 -----
 
 Markfolder policies are open source, licensed under [CC BY 4.0.](https://creativecommons.org/licenses/by/4.0/) Adapted from the [Basecamp open-source policies / CC BY 4.0.](https://github.com/basecamp/policies)
+
